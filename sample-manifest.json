@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3680cfc5-2592-4992-a5c2-bca21f6b1466",
+  "export_job_id": "18b37361-a97e-48a2-abe2-18e1572e8a4a",
   "id_short": 169704,
-  "published_at": "2026-04-22T07:08:46Z",
+  "published_at": "2026-04-29T07:22:32Z",
   "repo_name": "all-restaurants-in-dublin-california-us-sample-169704",
   "sample_asset_name": "beamstation_169704_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/169704/beamstation_169704_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "20537cfd515f4030e292152e9913b722f03188f3868baf20e1f39e1c6e4136f6",
-  "sample_size_bytes": 57408,
-  "total_records": 120
+  "sample_records": 11,
+  "sample_sha256": "368e7d0eb82c9c6a0e6ec881720a04ecd89ac5f6f26d572bccee14a8aba9d70f",
+  "sample_size_bytes": 52547,
+  "total_records": 110
 }
